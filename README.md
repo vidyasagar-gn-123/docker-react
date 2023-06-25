@@ -1,2 +1,2 @@
-# docker-react
+# Docker-React
 React- App End to End deployment
